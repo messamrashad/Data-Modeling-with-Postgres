@@ -55,7 +55,7 @@ The reason behind choosing the Star Schema over Snowflake Schema are the followi
 
 - Data Readiness.ipynb --> A newly created jupyter Notebook to discover the data, and run the essential scripts in order. For example, I used the following code the run any Python script used in this project: %run (python_script_name) --> %run create_tables.py
 
-- data directoru --> Holding all the log_data and song_data files.
+- data directory --> Holding all the log_data and song_data files.
 
 
 ## Analytics Queries:
